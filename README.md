@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Srushti Patil</h1>
-<h3 align="center">MCA Student | Aspiring Software Developer and Data Analyst</h3>
+<h3 align="center">MCA Student | Aspiring Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;MCA+Student+with+Passion+for+Coding;Java+%7C+Python+%7C+SQL+Learner;Web+Development+Enthusiast;Learning+Building+Growing+Every+Day">
@@ -26,7 +26,7 @@ I believe in **consistent learning**, **hands-on practice**, and **building real
 ---
 
 ## 🎯 Career Objective
-I am actively seeking **internship and entry-level job opportunities** where I can:
+I am actively seeking **Entry-level job opportunities** where I can:
 - Apply my technical knowledge  
 - Gain real-world industry experience  
 - Learn from experienced professionals  
